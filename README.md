@@ -49,7 +49,7 @@ currently_learning:
 ```
 🌐 Connect With Me
 <p align="center"> <a href="mailto:ite.tarek.khazma@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/TarikKhazma"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-⚡ Tech Arsenal
+
 # ⚡ Tech Arsenal
 
 <p align="center">
@@ -128,6 +128,10 @@ currently_learning:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TarikKhazma&label=Profile%20Views&color=blue&style=for-the-badge"/> </p>
 📦 Featured Projects
 <p align="center"> <a href="https://github.com/TarikKhazma"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarikKhazma&repo=flutter_project&theme=tokyonight"/> </a> <a href="https://github.com/TarikKhazma"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarikKhazma&repo=backend_api&theme=tokyonight"/> </a> </p>
+
+<a href="https://app.daily.dev/tarikkhazma"><img src="https://api.daily.dev/devcards/v2/d2ZRqEOYmOwbFm7mo5ff9.png?type=default&r=vd1" width="356" alt="Tarek Khazma's Dev Card"/></a>
+
+
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 📊 GitHub Metrics Dashboard
