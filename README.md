@@ -50,7 +50,72 @@ currently_learning:
 🌐 Connect With Me
 <p align="center"> <a href="mailto:ite.tarek.khazma@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/TarikKhazma"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 ⚡ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,go,linux,docker,git,github,postgresql,mysql,firebase,figma,vscode&perline=6"/> </p>
+# ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/go-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70"/>
+
+</p>
+
+---
+
+# 🧠 Languages & Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,go,js,html,css,bootstrap,tailwind,nodejs&perline=5"/>
+
+</p>
+
+---
+
+# ⚙️ Backend & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postgres,mysql,firebase&perline=4"/>
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&perline=3"/>
+
+</p>
+
+---
+
+# 🏷️ Tech Badges
+
+<p align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
 📊 GitHub Statistics
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TarikKhazma&show_icons=true&theme=tokyonight&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikKhazma&layout=compact&theme=tokyonight"/> </p>
 🔥 GitHub Streak
