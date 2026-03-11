@@ -1,75 +1,186 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Tarek%20Khazma&fontSize=80" alt="Header" />
-</p>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Tarek Khazma" title="👋 Hi there! I'm Tarek Khazma"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,django,java,spring,cpp,postgres,mysql,docker,git,aws,github&theme=dark" />
-  </a>
-</p>
+<div align="justify">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+<a href="https://github.com/TarikKhazma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 📊 GitHub Metrics & Insights (The Heavy Stuff)
-<p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Riyadh" alt="Metrics" width="100%">
-</p>
+<a href="mailto:ite.tarek.khazma@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" width="48%">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
 ---
 
-### 📈 Activity & Development Life
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight" width="100%">
-</div>
+<p align="justify">
+
+Welcome to my GitHub page 👋  
+
+I am **Tarek Khazma**, a passionate **Flutter Developer and Backend Learner**.  
+I enjoy building mobile applications, exploring backend technologies, and learning DevOps tools to create scalable systems.
+
+Currently, I focus on:
+
+- 📱 Mobile Development with **Flutter**
+- ⚙️ Backend APIs with **Python / Golang**
+- ☁️ DevOps tools like **Docker, CI/CD, Linux**
+
+I love learning new technologies and building real-world projects.
+
+</p>
+
+---
+
+# ⚙️ My favorite tools and technologies
+
+<table>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="65" height="65"/>
+<br>Flutter
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/go-icon.svg" width="65" height="65"/>
+<br>Golang
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/>
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65"/>
+<br>REST API
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50"/>
+<br>Nginx
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48"/>
+<br>Dart
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+<br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
+<br>Firebase
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+<br>VS Code
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub stats
+
+<details>
+
+<summary>GitHub Profile Stats 💻</summary>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight" width="48%">
-  <img src="https://api.daily.dev/devcards/YOUR_ID.png?r=1" width="48%" alt="Daily DevCard">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=TarikKhazma&show_icons=true&count_private=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikKhazma&layout=compact&theme=tokyonight"/>
+
+</details>
 
 ---
 
-### 🛠️ Programming Experience & Performance
-<div align="center">
-  <img src="https://pagespeed-insights-svg.vercel.app/?url=https://github.com/YOUR_USERNAME" alt="Pagespeed Insights" width="48%">
-  <img src="https://devcard.vercel.app/YOUR_USERNAME" width="48%">
-</div>
+<details>
+
+<summary>Activity Graph 📈</summary>
+
+<br>
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=TarikKhazma&theme=tokyo-night)
+
+</details>
 
 ---
 
-### 🎵 Currently Listening & Mood
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re" alt="Spotify">
-</p>
+<details>
+
+<summary>Profile Views 👁️</summary>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TarikKhazma&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
 
 ---
 
-### 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7" width="100%">
-</p>
+# 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" alt="Views">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TarikKhazma&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📝 Todoist & Productivity
-```text
-- ✅ Learn new System Design Patterns
-- 🏗️ Build a scalable Microservice
-- 📚 Reading "Clean Code"
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
