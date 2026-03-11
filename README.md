@@ -46,8 +46,7 @@ currently_learning:
 
 
 
-
-
+```
 🌐 Connect With Me
 <p align="center"> <a href="mailto:ite.tarek.khazma@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/TarikKhazma"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 ⚡ Tech Arsenal
@@ -69,4 +68,4 @@ currently_learning:
 📊 GitHub Metrics Dashboard
 <p align="center"> <img src="https://metrics.lecoq.io/TarikKhazma?template=classic&languages=1&activity=1&achievements=1&lines=1&isocalendar=1"/> </p>
 🎮 Fun Section
-<p align="center"> <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif"/> </p> ```
+<p align="center"> <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif"/> </p> 
