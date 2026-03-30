@@ -81,7 +81,7 @@ currently_learning:
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
