@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+a+Software+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
+<img src="https://komarev.com/ghpvc/?username=TarikKhazma&color=6E40C9&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
@@ -18,31 +20,25 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,go,rust,ruby&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,figma&theme=dark" />
+</p>
 
-**Frontend & Mobile:**
+### Backend & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,kubernetes,linux&theme=dark" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend & DevOps:**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Cloud & Tools:**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Cloud & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,jira,androidstudio&theme=dark" />
+</p>
 
 ---
 
@@ -77,8 +73,6 @@
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TarikKhazma&color=6E40C9&style=flat-square)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
