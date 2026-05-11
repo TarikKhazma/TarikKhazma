@@ -10,10 +10,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[Your Project Name]**
+- 🔭 I'm currently working on **[Mobile & Web developer ]**
 - 🌱 I'm currently learning **[Technology/Framework]**
 - 💬 Ask me about **Web Development, Mobile Apps, DevOps**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **ite.tarek.khazma@email.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
